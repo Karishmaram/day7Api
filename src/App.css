@@ -1,0 +1,36 @@
+body{
+  background-color: #FF6969;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  }
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(243, 20, 50);
+}
+
+.wer{
+  color: rgb(238, 24, 24);
+  margin-left: 25px;
+}
+
+input{
+margin-top: 1%;
+} 
+
+img{
+width: 150px;
+height: 150px;
+padding: 5px;
+}
+.karishma{
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
+header{
+  text-align: center;
+}

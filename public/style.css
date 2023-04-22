@@ -1,0 +1,24 @@
+*
+{
+    color: rgb(27, 3, 25);
+}
+.btn
+{
+    margin-right: 40px;
+}
+
+.title
+{
+    position: relative;
+    margin-right: 50%;
+}
+
+.heading
+{
+    text-align: center;
+}
+
+.vv{
+    height: 500px;
+    width: 450px;
+}
